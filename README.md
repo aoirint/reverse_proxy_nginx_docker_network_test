@@ -1,6 +1,6 @@
 # reverse_proxy_nginx_docker_network_test
 
-リバースプロキシ用のnginxをdocker-composeで管理するテスト。
+リバースプロキシ用のnginxコンテナをdocker-composeで管理するテスト。
 
 仮想アプリプロジェクトの起動。
 
