@@ -1,4 +1,4 @@
-# nginx_docker_network_test
+# reverse_proxy_nginx_docker_network_test
 
 リバースプロキシ用のnginxをdocker-composeで管理するテスト。
 
